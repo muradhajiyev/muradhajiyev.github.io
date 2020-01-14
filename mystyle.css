@@ -33,3 +33,7 @@ body{
         .image-container:hover .middle {
             opacity: 1;
         }
+
+        .validator-link {
+            margin: 5px;
+        }
