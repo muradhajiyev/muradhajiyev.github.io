@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, serif;
+}
+
+body a{
+    color: #A4A400;
+}
+
+.heading {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+}
+
+.heading.main-heading{
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+.heading.sub-heading{
+    font-size: 18pt;
+    font-weight: normal;
+}
+
+img{
+    margin-bottom: 10px;
+}
+
+p{
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+hr{
+    margin: 20px 0 20px 0;
+}
+
+.list-title{
+    font-weight: bold;
+}
+
+blockquote{
+    font-style: italic;
+    background-color: #FFFFA8;
+}
+
+a{
+    text-decoration: underline;
+}
+
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0;
+}
