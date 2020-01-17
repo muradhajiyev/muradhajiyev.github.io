@@ -82,6 +82,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .bodyContainerLeft{
@@ -118,6 +119,8 @@ body {
 }
 .reviewBox{
     margin-bottom: 20px;
+    width: 48%;
+    margin: 1%;
 }
 .reviewer{
     display: flex;
