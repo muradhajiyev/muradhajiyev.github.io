@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed223bb1-cdaf-4a9e-838a-de9de438188b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/w1d2recipe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d2recipe/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/w1d3b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d3b/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +29,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/w1d3b/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w1d2about/index.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -37,13 +47,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w1d2recipe/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            <state relative-caret-position="141">
+              <caret line="65" column="231" selection-start-line="65" selection-start-column="228" selection-end-line="65" selection-end-column="231" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>del</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +68,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/w1d2recipe/index.html" />
+        <option value="$PROJECT_DIR$/w1d2about/index.html" />
         <option value="$PROJECT_DIR$/w1d3b/index.html" />
       </list>
     </option>
@@ -85,11 +101,6 @@
             <path>
               <item name="muradhajiyev.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="muradhajiyev.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="muradhajiyev.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="muradhajiyev.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="w1d2recipe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,12 +138,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579223617157</updated>
-      <workItem from="1579223618593" duration="891000" />
+      <workItem from="1579223618593" duration="1249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="891000" />
+    <option name="totallyTimeSpent" value="1249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="0" />
@@ -181,15 +192,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w1d2recipe/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        <state relative-caret-position="141">
+          <caret line="65" column="231" selection-start-line="65" selection-start-column="228" selection-end-line="65" selection-end-column="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w1d2about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/w1d3b/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="105">
+          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
         </state>
       </provider>
     </entry>
