@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--
+    ASSIGNMENT STATUS REPORT 1/20/2020 Murad Hajiyev
+    Dear Professor,  I have successfully completed my assignment and below is the link to my github pages website
+    https://muradhajiyev.github.io/
+
+    It took me about almost 2 hours to complete the whole assignment. Only tricky part was to implement
+    setInterval without stopping animation. The whole project was interesting and helped me to write
+    clean code. Ofcourse, I would like to see correct solution which will be uploaded by you to analyze my code again.
+-->
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title>ASCIImation</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="ascii.css" type="text/css" rel="stylesheet">
+		<script src="animations.js" type="text/javascript"></script>
+		<script src="ascii.js" type="text/javascript"></script>
+    </head>
+	
+    <body>
+        <header>CSE 190 M ASCII Animation Viewer</header>
+		<div class="container">
+			<textarea id="text-area" cols="80" rows="20"></textarea>
+			<fieldset>
+				<legend>Play Controls:</legend>
+				<button id="start">Start</button>
+				<button disabled="disabled" id="stop">Stop</button>
+			</fieldset>
+
+			<fieldset>
+				<legend>Animation:</legend>
+				<select id="animation">
+					<option selected="selected" value="Blank">Blank</option>
+					<option value="Exercise">Exercise</option>
+					<option value="Juggler">Juggler</option>
+					<option value="Bike">Bike</option>
+					<option value="Dive">Dive</option>
+				</select>
+			</fieldset>
+			<fieldset>
+				<legend>Size:</legend>
+				<select id="fontsize">
+					<option value="x-small">Tiny</option>
+					<option value="small">Small</option>
+					<option value="medium" selected="selected">Medium</option>
+					<option value="large">Large</option>
+					<option value="x-large">Extra Large</option>
+					<option value="xx-large">XXL</option>
+				</select>
+			</fieldset>
+			<fieldset>
+				<legend>Speed:</legend>
+				<label><input id="turbo" type="checkbox">Turbo</label>
+			</fieldset>
+		</div>
+        <div id="validate">
+            <a href="https://validator.w3.org/check/referer">
+                <img src="http://mumstudents.org/cs472/2013-09/images/w3c-html.png" alt="html validator">
+            </a><br>
+            <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                <img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a><br>
+            <a href="https://webster.cs.washington.edu/jslint?referer">
+		<img src="http://mumstudents.org/cs472/2013-09/images/jslint.png" alt="JavaScript Lint" width="70px">
+			</a>
+
+
+        </div>
+
+
+    
+
+</body></html>
