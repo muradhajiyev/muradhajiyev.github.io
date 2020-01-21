@@ -1,3 +1,11 @@
+/*
+    ASSIGNMENT STATUS REPORT 1/20/2020 Murad Hajiyev
+Dear Professor,  I have successfully completed my assignment and below is the link to my github pages website
+https://muradhajiyev.github.io/
+
+I implemented a custom map and filter functions. And added mocha to test them. They are accepting array and function as an argument and they are pure functions.
+*/
+
 /*jshint esversion: 6 */
 (function(){
     "use strict";
