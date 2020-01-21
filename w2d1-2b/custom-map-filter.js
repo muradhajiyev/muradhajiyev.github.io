@@ -41,6 +41,9 @@ I implemented a custom map and filter functions. And added mocha to test them. T
             assert.deepEqual(filter([1,2,3,4,5], (el) => el > 3), [4,5]);
         });
     });
+
+    window.map = map;
+    window.filter = filter;
 })();
 
 
