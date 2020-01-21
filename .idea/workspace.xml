@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed223bb1-cdaf-4a9e-838a-de9de438188b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/w2d1-2b/custom-map-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d1-2b/custom-map-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d1-2b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w2d1-2b/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d1-mocha/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w2d1-mocha/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +28,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w2d1-mocha/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="150">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -94,10 +101,10 @@
         <option value="$PROJECT_DIR$/w2d1-animation-ascii/index.html" />
         <option value="$PROJECT_DIR$/w2d1-animation-ascii/ascii.css" />
         <option value="$PROJECT_DIR$/w1d5-js/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/w2d1-2b/custom-map-filter.js" />
         <option value="$PROJECT_DIR$/w2d1-2b/index.html" />
         <option value="$PROJECT_DIR$/w2d1-mocha/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -124,11 +131,6 @@
             <path>
               <item name="muradhajiyev.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="muradhajiyev.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="muradhajiyev.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="muradhajiyev.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="w2d1-2b" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="muradhajiyev.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -205,12 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1579223617157</updated>
       <workItem from="1579223618593" duration="16411000" />
-      <workItem from="1579472438287" duration="15104000" />
+      <workItem from="1579472438287" duration="15164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31515000" />
+    <option name="totallyTimeSpent" value="31575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="0" />
@@ -397,13 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="41" column="88" lean-forward="true" selection-start-line="41" selection-start-column="88" selection-end-line="41" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w2d1-animation-ascii/ascii.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -440,8 +435,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w2d1-mocha/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
         </state>
       </provider>
     </entry>
