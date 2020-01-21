@@ -1,15 +1,4 @@
 <!DOCTYPE html>
-<!--
-    ASSIGNMENT STATUS REPORT 1/17/2020 Murad Hajiyev
-    Dear Professor,  I have successfully completed my assignment and below is the link to my github pages website
-    https://muradhajiyev.github.io/
-
-    It took me about almost 1.5 hours to complete the whole assignment. Generally, the task was really easy But
-    I changed myFunctionTest a little bit, because comparison with 3 equal sign was not working with arrays.
-    That's why I added the condition below to if statement:
-        || Array.isArray(expected) && JSON.stringify(expected) === JSON.stringify(found)
-    I completed all sub-tasks.
--->
 
 <html lang="en">
 <head>
@@ -155,9 +144,7 @@
 
         /* Write a function filterLongWords() that takes an array of words and an integer i and returns the array of words that are longer than i. */
         function filterLongWords(words, i) {
-            return words.filter((currVal, index, arr) => {
-                return currVal.length > i;
-            })
+            return words.filter((currVal, index, arr) => currVal.length > i);
         }
 
         describe("Filtering long words", function() {
