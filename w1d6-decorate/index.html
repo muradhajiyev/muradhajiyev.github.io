@@ -1,44 +1,53 @@
 <!DOCTYPE html>
-<!--
-    ASSIGNMENT STATUS REPORT 1/19/2020 Murad Hajiyev
-    Dear Professor,  I have successfully completed my assignment and below is the link to my github pages website
-    https://muradhajiyev.github.io/
+<!-- 
+I have successfully completed my homework and it took me about 1 hour to complete the lab5 implementation with the new array methods.
+This is the link to my home page: https://muradhajiyev.github.io
 
-    It took me about almost 1.5 hours to complete the whole assignment. Implementing tasks using reduce/map/filter were
-    easy. However, mocha and linters were new to me. I read a little bit about these frameworks. I can use them in my future
-    projects.
--->
+I learned about the arrow functions, timer functions and using function expressions in this lab.
+ -->
 <html lang="en">
 <head>
-    <!-- add mocha css, to show results -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.css">
-    <!-- add mocha framework code -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.js"></script>
-    <script>
-        mocha.setup('bdd'); // minimal setup
-    </script>
-    <!-- add chai -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/3.5.0/chai.js"></script>
-    <script>
-        // chai has a lot of stuff, let's make assert global
-        let assert = chai.assert;
-    </script>
+    <title>Text Decorator</title>
+    <link href="decorate.css" type="text/css" rel="stylesheet"/>
+    <script src="decorate.js" type="text/javascript"></script>
+
+    <!-- link to your script file here -->
 </head>
 
 <body>
+<h1>Text Decorator</h1>
 
-<script src="main.js"></script>
+<div>
+    <img src="decorated.gif" alt="very decorated!"/>
+</div>
 
-<!-- the script with tests (describe, it...) -->
-<!-- <script src="test.js"></script>
-<script src="calculatorTest.js"></script> -->
-
-<!-- the element with id="mocha" will contain test results -->
-<div id="mocha"></div>
-
-<!-- run tests! -->
-<script>
-    mocha.run();
-</script>
+<!-- Your UI controls go here -->
+<fieldset>
+    <legend>Text</legend>
+    <textarea name="userinput" id="textArea" cols="30" rows="4">
+Any text here is default</textarea
+    >
+</fieldset>
+<fieldset>
+    <legend>Decoration</legend>
+    <input type="button" value="Bigger Decorations!" id="decorateBtn"/>
+    <label>Bling <input type="checkbox" name="bling" id="bling"/> </label>
+    <button name="igpay" id="igpay">Igpay Atinlay</button>
+    <button id="malkovitch">Malkovitch</button>
+</fieldset>
+<footer>
+    <a href="https://validator.w3.org/check/referer">
+        <img
+                src="http://mumstudents.org/cs472/2014-09/images/w3c-html.png"
+                alt="html validator"
+        />
+    </a>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img
+                src="http://mumstudents.org/cs472/2013-09/images/w3c-css.png"
+                alt="html validator"
+        />
+    </a>
+</footer>
 </body>
 </html>
