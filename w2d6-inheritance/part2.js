@@ -2,6 +2,7 @@
     ASSIGNMENT STATUS REPORT 1/26/2020 Murad Hajiyev
 
 Dear Professor,  I have successfully completed my assignment and below is the link to my github pages website
+http://muradhajiyev.github.io
 
 I almost spent 1 hour to finish this assignment. filter and bubbleSort were the same type of tasks.
 At the last task, I revised function constructor inheritance again.
