@@ -26,7 +26,7 @@ $(document).ready(function(){
         isGameStarted = true;
     });
 
-    $("#end").click(function(){
+    $("#end").mouseover(function(){
         if (isGameStarted)
             alert("You won =)");
         isGameStarted = false;
