@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed223bb1-cdaf-4a9e-838a-de9de438188b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/w3d2-maze/maze.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d2-maze/maze.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d2-maze/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w3d2-maze/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/w3d2-maze/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="180">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -28,16 +29,16 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="47" column="78" lean-forward="true" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+              <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w3d2-maze/maze.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="265">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -111,6 +112,7 @@
         <option value="$PROJECT_DIR$/w2d4-classes/checkingaccount.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/w3d2-maze/maze.js" />
+        <option value="$PROJECT_DIR$/w3d2-maze/index.html" />
       </list>
     </option>
   </component>
@@ -130,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,6 +144,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,7 +152,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/w2d4-classes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -210,18 +212,19 @@
       <workItem from="1579223618593" duration="16411000" />
       <workItem from="1579472438287" duration="20228000" />
       <workItem from="1579999990095" duration="6075000" />
-      <workItem from="1580154406946" duration="14280000" />
+      <workItem from="1580154406946" duration="15219000" />
+      <workItem from="1580337011871" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56994000" />
+    <option name="totallyTimeSpent" value="57949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1736672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17609046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -437,9 +440,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/w1d2inheritance123.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/w1d2inheritance123.js" />
     <entry file="file://$PROJECT_DIR$/w1d6-arrow/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -529,24 +530,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3d2-maze/index.html">
+    <entry file="file://$PROJECT_DIR$/w3d2-maze/maze.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="265">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
-          <caret line="47" column="78" lean-forward="true" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+          <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3d2-maze/maze.js">
+    <entry file="file://$PROJECT_DIR$/w3d2-maze/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
