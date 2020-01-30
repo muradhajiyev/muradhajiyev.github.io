@@ -9,13 +9,13 @@ $(document).ready(function(){
     });
 
     $("body").mouseover(function(e){
-        e.stopPropagation();
+        // e.stopPropagation();
         if (e.target.id === "maze" || e.target.id === "start" || e.target.id === "end")
             return false;
 
         if (isGameStarted){
-            $("div.boundary").addClass("youlose");
             isGameStarted = false;
+            $("div.boundary").addClass("youlose");
             alert("You lost! Try again by clicking the 'S'");
         }
 
@@ -23,13 +23,18 @@ $(document).ready(function(){
 
     $("#start").click(function(){
         console.log("Game Started");
+        if ($("div.boundary").hasClass("youlose")) {
+            $("div.boundary").removeClass("youlose");
+        }
         isGameStarted = true;
+
     });
 
     $("#end").mouseover(function(){
-        if (isGameStarted)
+        if (isGameStarted){
             alert("You won =)");
-        isGameStarted = false;
+            isGameStarted = false;
+        }
     });
 
 
